@@ -3,7 +3,7 @@
 In this project, I extracted the average global temperature from a database and compared it with the average temperature in my city.
 
 
-# main steps:
+## main steps:
 - Extract data from a database using a SQL query.
 - Calculate a moving average in a spreadsheet.
 - Create a line chart that compares your city’s temperatures with the global temperatures.
